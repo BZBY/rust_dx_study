@@ -16,7 +16,7 @@ fn main() {
 }
 
 pub fn App() -> Element {
-    rsx! {"story"}
+    rsx! {"stodfuckouy"}
 }
 
 
